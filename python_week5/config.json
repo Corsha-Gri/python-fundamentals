@@ -1,0 +1,10 @@
+{
+  "modle_type": "neural_network",
+  "learning_rate": 0.001,
+  "epochs": 150,
+  "layers": [
+    128,
+    64,
+    32
+  ]
+}
